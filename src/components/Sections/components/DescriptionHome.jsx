@@ -14,8 +14,9 @@ function DescriptionHome() {
       </h1>
       <DescriptionOne />
 
-      <p className="text-gray-500  text-[16px]  leading-6 w-[85%] mt-4 max-[1024px]:text-[14px] max-[768px]:text-[12px] max-[768px]:mt-1 max-[425px]:text-[12px] max-[425px]:leading-normal max-[425px]:text-justify max-[425px]:w-[89%] ">
-      ¡Hola! Soy un ingeniero civil apasionado por la programación, combinando lo mejor de ambos mundos en mi carrera, apasionado por la investigación y por combinar mis habilidades para resolver problemas en la industria de la construcción. Tengo sólidos conocimientos en gestión de proyectos, diseño estructural y arquitectónico. En el ámbito de la programación, soy un desarrollador web front-end full stack, con experiencia en tecnologías como HTML, CSS, JS, React, Next.js, Framer Motion, Tailwind CSS y SQLite. Mi portafolio refleja mi pasión y evolución desde mis primeros cursos hasta convertirlo en un estilo de vida.
+      <p className="text-gray-500  text-[16px]  leading-6 w-[85%] mt-4 max-[1024px]:text-[14px] max-[768px]:text-[12px] max-[768px]:mt-1 max-[425px]:text-[14px] max-[425px]:leading-normal max-[425px]:text-justify max-[425px]:w-[89%] ">
+      
+¡Saludos! Soy un ingeniero civil entusiasta de la programación, por ello, tengo como objetivo fusionar de manera armoniosa lo mejor de ambos mundos para crear soluciones óptimas a problemas en la industria de la construcción. Mi pasión radica en la investigación y en la aplicación de mis habilidades para abordar desafíos dentro de la industria de la construcción. Mi sólida base de conocimientos abarca la gestión de proyectos, así como el diseño estructural y arquitectónico. En el ámbito de la programación, me destaco como un desarrollador web full stack especializado en front-end. Mi experiencia abarca diversas tecnologías, incluyendo HTML, CSS, JS, React, Next.js, Framer Motion, Tailwind CSS y SQLite. A través de mi evolución, he convertido mi portafolio en un testimonio de mi dedicación, reflejando el viaje desde mis primeros cursos hasta transformar la programación en un estilo de vida arraigado en mi ser.
       <Link href="/about">
       <ButtonTwo text="¡Explora más aquí¡"></ButtonTwo>
         </Link>
