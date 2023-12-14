@@ -59,9 +59,7 @@ export default function MyModal() {
                   </Dialog.Title>
                   <div className="mt-2">
                     <p className="text-sm text-gray-500">
-                      ¡Bienvenidos! Este sitio web ha sido creado y diseñado
-                      íntegramente por mí. Desde la conceptualización hasta la
-                      implementación.   ©  Barreto Darli Wilson 2023{" "}
+                    ¡Bienvenidos a Portafolio! Quiero compartir con ustedes que este sitio web ha sido meticulosamente planificado y diseñado de principio a fin, bajo mi dirección exclusiva. Desde la gestación de la idea hasta la implementación práctica, cada detalle ha sido cuidadosamente considerado. Este proyecto es una manifestación de mi dedicación y pasión por la ingenieria civil y la programación. © Barreto Darli Wilson 2023.{" "}
                     </p>
                   </div>
 

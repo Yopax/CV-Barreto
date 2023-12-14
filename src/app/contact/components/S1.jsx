@@ -16,15 +16,15 @@ function S1() {
               de usted pronto!
             </p>
             <div className="w-full flex space-x-4 mt-10 max-[678px]:flex-col max-[425px]:flex-col max-[425px]:items-center   ">
-              <div className="max-[425px]:my-2 max-[425px]:ml-4 bg-sky-600 w-[160px] h-24 rounded-lg text-center ">
+              <div className="max-[425px]:my-2 max-[425px]:ml-4 bg-sky-600 w-[250px] h-24 rounded-lg text-center ">
                 <p className="text-white mt-2 mb-4 text-[14px]">Telefono</p>
                 <p className="text-white text-sm ">+51 912 144 458</p>
               </div>
-              <div className="max-[425px]:my-2 bg-sky-600 w-[160px] h-24 rounded-lg text-center">
+              <div className="max-[425px]:my-2 bg-sky-600 w-[250px] h-24 rounded-lg text-center">
                 <p className="text-white mt-2 mb-4 text-[14px]">Email</p>
                 <p className="text-white text-sm ">n00167313@gmail.pe</p>
               </div>
-              <div className="max-[425px]:my-2 bg-sky-600 w-[160px] h-24 rounded-lg text-center">
+              <div className="max-[425px]:my-2 bg-sky-600 w-[250px] h-24 rounded-lg text-center">
                 <p className="text-white mt-2 mb-4 text-[14px]">
                   Email Personal
                 </p>

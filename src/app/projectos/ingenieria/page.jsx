@@ -54,45 +54,50 @@ function page() {
         <div className="grid grid-cols-4 max-[1024px]:grid-cols-3 max-[768px]:grid-cols-2 max-[425px]:grid-cols-1 justify-center mt-8 mb-8 ">
           <div >
             <CardIng
-              title="Login 01 Web site"
+              title="Metrado"
               enlace="https://drive.google.com/uc?export=download&id=1klmp2CXCbptojB9Wd0RQ18BeIu4E0Dwh"
-              parrafo="Diseño de minimalista de inicion de sesion para una pagina web"
-              img="https://i.imgur.com/9VZeBBN.png"
+              parrafo="Los recursos proximamente estaran disponibles para descargar"
+              img="https://i.imgur.com/eWDEloK.png"
             />
           </div>
           <div>
             <CardIng
-              title="Login 02 Web site"
+              title="Analisis sismico"
               enlace="https://drive.google.com/uc?export=download&id=1-9MHa2GvKSOGDdnAEd68LaSUzFUX0gMI"
-              parrafo="Diseño de minimalista de inicion de sesion para una pagina web"
-              img="https://i.imgur.com/6hVqoWe.png"
+              parrafo="Los recursos proximamente estaran disponibles para descargar"
+              img="https://i.imgur.com/eWDEloK.png"
             />
           </div>
           <div>
             <CardIng
-              title="Dashboar"
-              parrafo="Diseño de minimalista de inicion de sesion para una pagina web"
-              img="https://i.imgur.com/OL8nJJh.png"
+              title="Vivienda de 4 pisos empleando REVIT"
+              parrafo="Los recursos proximamente estaran disponibles para descargar"
+              img="https://i.imgur.com/eWDEloK.png"
             />
           </div>
           <div>
             <CardIng
-              title="Landing Page"
-              parrafo="Diseño de minimalista de inicion de sesion para una pagina web"
-              img="https://i.imgur.com/OleJh2H.png"
+              title="Update..."
+              parrafo="Los recursos proximamente estaran disponibles para descargar"
+              img="https://i.imgur.com/eWDEloK.png"
             />
           </div>
           <div>
-            <CardIng title="Container One" />
+            <CardIng title="Container One" 
+            img="https://i.imgur.com/eWDEloK.png"
+            parrafo="Los recursos proximamente estaran disponibles para descargar" />
           </div>
           <div>
-            <CardIng title="Container One" />
+            <CardIng title="Container One" 
+            img="https://i.imgur.com/eWDEloK.png" parrafo="Los recursos proximamente estaran disponibles para descargar" />
           </div>
           <div>
-            <CardIng title="Container One" />
+            <CardIng title="Container One" 
+            img="https://i.imgur.com/eWDEloK.png" parrafo="Los recursos proximamente estaran disponibles para descargar" />
           </div>
           <div>
-            <CardIng title="Container One" />
+            <CardIng title="Container One" 
+            img="https://i.imgur.com/eWDEloK.png" parrafo="Los recursos proximamente estaran disponibles para descargar" />
           </div>
         </div>
       </div>

@@ -5,12 +5,12 @@ function CardIng({title, img, parrafo,enlace}) {
   return (
     <>
       
-      <div className=" border border-sky-200 mx-[15px] my-[15px] rounded-t-md rounded-b-md mb-3">
-        <div className=" rounded-md border border-sky-200  w-[215px] h-[130px] rounded-t-md ">
+      <div className=" border-8 border-sky-200 mx-[15px] my-[15px] rounded-t-[14px] rounded-b-[14px] mb-3">
+        <div className=" rounded-md border border-sky-200  w-[220px] h-[130px] rounded-t-md ">
           <img className="h-32 rounded-md" src={img} alt="" />
         </div>
 
-        <div className="flex bg-white  w-48 h-[220px] text-sm rounded-b-md">
+        <div className="flex bg-white  w-[220px] h-[220px] text-sm rounded-b-md">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             fill="none"

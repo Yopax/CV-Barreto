@@ -5,7 +5,7 @@ function CardDev({title, img, parrafo,enlace}) {
   return (
     <>
       
-      <div className=" border border-sky-200 mx-[15px] my-[15px] rounded-t-md rounded-b-md mb-3">
+      <div className=" border-8 border-sky-200 mx-[15px] my-[15px] rounded-t-[14px] rounded-b-[14px] mb-3">
         <div className=" rounded-md border border-sky-200  w-[215px] h-[130px] rounded-t-md ">
           <img className="h-32 rounded-md" src={img} alt="" />
         </div>
@@ -31,7 +31,7 @@ function CardDev({title, img, parrafo,enlace}) {
               <p className="mt-4 font w-[150px] h-[135px] ">{parrafo}</p>
             </div>
             <Link href={`${enlace}`} >
-              <button download  className="flex mt-2 underline  text-justify  text-gray-500 hover:text-[#0866FF]">Descargar el Proyecto
+              <button download  className="flex ml-6 mt-2 underline   text-center  text-gray-500 hover:text-[#0866FF]">ver en la web
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   fill="none"
