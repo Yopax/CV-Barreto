@@ -12,7 +12,7 @@ function Navbar() {
           <motion.button whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }}>
             <Link href="/">
               <div className="flex  logo  ml-[50px] max-[425px]:ml-0 ">
-                <h5 className="font-bold  mr-1 text-red-500 hover:text-gray-500 max-[768px]:text-[16px] ">
+                <h5 className="font-bold  mr-1 text-sky-500 hover:text-gray-500 max-[768px]:text-[16px] ">
                   Darli
                 </h5>
                 <h5 className="font-bold font hover:text-sky-500 max-[768px]:text-[16px]">Barreto</h5>
