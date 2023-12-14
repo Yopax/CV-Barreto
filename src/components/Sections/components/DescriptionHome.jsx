@@ -5,7 +5,7 @@ import ButtonTwo from './ButtonTwo'
 
 function DescriptionHome() {
   return (
-    <div className="flex mt-8 flex-col text-start  w-full max-[425px]:mt-[50px]">
+    <div className="flex mt-8 flex-col text-start  w-full max-[425px]:mt-[320px]">
       <p className="font text-sm self-start mb-2 max-[1024px]:text-[12px] max-[768px]:text-[10px] max-[425px]:mt-[90px] max-[425px]:mb-0  ">
         Portafolio de Elaboracion propia.
       </p>
